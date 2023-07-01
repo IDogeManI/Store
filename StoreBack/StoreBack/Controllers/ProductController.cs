@@ -41,8 +41,8 @@ namespace StoreBack.Controllers
                     return "Invalid";
                 product.OrderID = tmpOrder.Id;
                 productDb.Products.Update(product);
+                productDb.SaveChanges();
             }
-            productDb.SaveChanges();
 
             return "Created";
         }

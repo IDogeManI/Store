@@ -32,6 +32,31 @@ namespace StoreBack
                     "Lorem ipsum dolor sit amet, consectetur adipisicing elit." +
                     " Suscipit sequi possimus accusamus error deleniti," +
                     " impedit voluptatibus officiis repellat fuga harum deserunt temporibus" +
+                    " eius tempore reiciendis quas quaerat minus perferendis! Placeat?", "../../assets/backet.png", 99),
+                    new Product("Boots",
+                    "Lorem ipsum dolor sit amet, consectetur adipisicing elit." +
+                    " Suscipit sequi possimus accusamus error deleniti," +
+                    " impedit voluptatibus officiis repellat fuga harum deserunt temporibus" +
+                    " eius tempore reiciendis quas quaerat minus perferendis! Placeat?", "../../assets/backet.png", 99),
+                    new Product("Boots",
+                    "Lorem ipsum dolor sit amet, consectetur adipisicing elit." +
+                    " Suscipit sequi possimus accusamus error deleniti," +
+                    " impedit voluptatibus officiis repellat fuga harum deserunt temporibus" +
+                    " eius tempore reiciendis quas quaerat minus perferendis! Placeat?", "../../assets/backet.png", 99),
+                    new Product("Boots",
+                    "Lorem ipsum dolor sit amet, consectetur adipisicing elit." +
+                    " Suscipit sequi possimus accusamus error deleniti," +
+                    " impedit voluptatibus officiis repellat fuga harum deserunt temporibus" +
+                    " eius tempore reiciendis quas quaerat minus perferendis! Placeat?", "../../assets/backet.png", 99),
+                    new Product("Boots",
+                    "Lorem ipsum dolor sit amet, consectetur adipisicing elit." +
+                    " Suscipit sequi possimus accusamus error deleniti," +
+                    " impedit voluptatibus officiis repellat fuga harum deserunt temporibus" +
+                    " eius tempore reiciendis quas quaerat minus perferendis! Placeat?", "../../assets/backet.png", 99),
+                    new Product("Boots",
+                    "Lorem ipsum dolor sit amet, consectetur adipisicing elit." +
+                    " Suscipit sequi possimus accusamus error deleniti," +
+                    " impedit voluptatibus officiis repellat fuga harum deserunt temporibus" +
                     " eius tempore reiciendis quas quaerat minus perferendis! Placeat?", "../../assets/backet.png", 99)
                 );
         }
