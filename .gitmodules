@@ -1,3 +1,6 @@
 [submodule "StoreFront"]
 	path = StoreFront
 	url = https://github.com/IDogeManI/StoreFront.git
+[submodule "StoreBack"]
+	path = StoreBack
+	url = https://github.com/IDogeManI/StoreBack.git
