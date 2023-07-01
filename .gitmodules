@@ -1,0 +1,3 @@
+[submodule "StoreFront"]
+	path = StoreFront
+	url = https://github.com/IDogeManI/StoreFront.git
